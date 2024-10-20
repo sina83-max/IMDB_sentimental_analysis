@@ -21,4 +21,5 @@ Alternatively, you can set your credentials using environment variables:
    ```
 
 User can download the neccessary requirements by the following command:
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
