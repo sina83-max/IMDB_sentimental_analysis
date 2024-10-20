@@ -19,3 +19,6 @@ Alternatively, you can set your credentials using environment variables:
    export KAGGLE_USERNAME=<YOUR_USERNAME>
    export KAGGLE_KEY=<YOUR_KEY>
    ```
+
+User can download the neccessary requirements by the following command:
+pip install -r requirements.txt
